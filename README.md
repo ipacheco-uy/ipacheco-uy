@@ -1,5 +1,5 @@
 
-![Alt Text](pirata.gif)
+![Alt Text](https://github.com/ipacheco-uy/ipacheco-uy/raw/master/pirata.gif)
 
 <!--
 **ipacheco-uy/ipacheco-uy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
